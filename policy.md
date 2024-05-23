@@ -1,5 +1,10 @@
 **Privacy Policy**
 
+**Subscriptions**
+Zenfam offers a monthly subscription, which costs 4,99 on monthly basis.
+Zenfam offers a yearly subscription, which costs 24,99 on yearly basis.
+Default auto-renew policies apply, visit https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ for more information.
+
 Anne van Omme built the ZenFam app as a Freemium app. This SERVICE is provided by Anne van Omme at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
