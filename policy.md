@@ -1,6 +1,7 @@
 **Privacy Policy**
 
 **Subscriptions**
+
 Zenfam offers a monthly subscription, which costs 4,99 on monthly basis.
 Zenfam offers a yearly subscription, which costs 24,99 on yearly basis.
 Default auto-renew policies apply, visit https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ for more information.
